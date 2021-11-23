@@ -1,0 +1,74 @@
+  
+     start  navbar 
+    <header id="top-nav" class="nav-sticky">
+  
+   
+      <!-- start contanar -->
+      <div class="containar">
+  
+        <!-- start logo -->
+        
+        <a href="" class="logo">
+          <img src="../vendor/image/logo-dark.png" height="24" />
+          <!--<img src="../vendor/image/logo-light.png" height="24" /> -->
+         </a>
+        <!-- End logo  -->
+        <div class="buy-button">
+          <a href="الصفحه الي هنروح " class="btn btn-primary" target="_blank ">Buy Now</a>
+        </div>
+  
+        <div class="menu-extras">
+  
+            <!-- start Mobile -->
+              <div class="menu-item">
+            <a href="" class="navbar-toggle" id="isToggle" onclick="togglemenue">
+            
+            
+            <div class="lens">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </a>
+              </div> <!-- End Mobile -->
+  
+          
+        </div>
+  
+        <!-- start navigation -->
+        <div id="navigation" style="display: block;">
+          <!--start navigation meun -->
+       
+          <!-- lost -->
+              <ul class="navigation-meun">
+           <li >
+             <a class="sub-menu-item"  href="#">Home</a>
+           </li>
+           <li >
+            <a class="sub-menu-item"  href="#">LANDING</a>
+          </li>
+          <li >
+            <a class="sub-menu-item"  href="#">PAGES</a>
+          </li>
+          <li >
+            <a class="sub-menu-item"  href="#">DOCS</a>
+          </li>
+            
+             </ul><!--end navigation meun -->
+       
+  
+  
+             <div class="buy-menu-btn d-none">
+               <a href="" target="_blank"
+               class="btn btn-primary"> Buy Now </a>
+             </div>
+         </div>
+         <!-- End navigation -->
+  
+      </div>
+      
+       
+    </header>
+      <!-- end   navbar  -->
+  
+  
